@@ -1,0 +1,6 @@
+@FormulaApp.Api_HostAddress = http://localhost:5130
+
+GET http://localhost:5130/api/fans/get-fans
+Accept: application/json
+
+###
